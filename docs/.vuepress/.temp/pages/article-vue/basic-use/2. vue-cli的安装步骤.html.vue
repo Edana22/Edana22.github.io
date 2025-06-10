@@ -1,0 +1,68 @@
+<template><div><h1 id="vue-cli的安装步骤" tabindex="-1"><a class="header-anchor" href="#vue-cli的安装步骤"><span>vue-cli的安装步骤</span></a></h1>
+<p>参考网址：</p>
+<ul>
+<li>https://www.cnblogs.com/xianshen/p/15695453.html</li>
+<li>https://segmentfault.com/a/1190000045054372</li>
+<li>https://download.csdn.net/blog/column/8597079/90712394</li>
+</ul>
+<hr>
+<h3 id="_1、安装node-js" tabindex="-1"><a class="header-anchor" href="#_1、安装node-js"><span>1、安装Node.js</span></a></h3>
+<ul>
+<li>在Node.js官网 <a href="https://nodejs.org/zh-cn/" target="_blank" rel="noopener noreferrer">https://nodejs.org/zh-cn/ </a>下载安装包，修改安装路径到其它盘，如 G:\Program Files</li>
+<li>安装完以后检查下安装是否成功： node -v</li>
+<li><img src="https://img2024.cnblogs.com/blog/2194212/202407/2194212-20240725173504813-621057831.png" alt="img"></li>
+</ul>
+<h3 id="_2、设置-npm的全局下载路径和缓存路径" tabindex="-1"><a class="header-anchor" href="#_2、设置-npm的全局下载路径和缓存路径"><span>2、设置 npm的全局下载路径和缓存路径</span></a></h3>
+<p><strong>npm（node package manager）：nodejs的包管理器，用于node插件管理（包括安装、卸载、管理依赖等）</strong></p>
+<ul>
+<li>新建目录：在安装目录 G:\Program Files\nodejs 下手动新建 node_cache 和 node_global 文件夹</li>
+</ul>
+<p><img src="https://img2020.cnblogs.com/blog/2194212/202106/2194212-20210609103606723-678504255.png" alt="img"></p>
+<ul>
+<li>
+<p>调整目录：在命令行输入</p>
+<div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre v-pre><code><span class="line">npm config set prefix "G:\Program Files\nodejs\node_global"</span>
+<span class="line">npm config set cache "G:\Program Files\nodejs\node_cache"</span>
+<span class="line"></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div></div></div></li>
+</ul>
+<h3 id="_3、设置环境变量" tabindex="-1"><a class="header-anchor" href="#_3、设置环境变量"><span>3、设置环境变量</span></a></h3>
+<ul>
+<li>“环境变量 | 系统变量 | Path | 编辑 | 新建 | 复制粘贴 G:\Program Files\nodejs\node_global”</li>
+</ul>
+<p><img src="https://img2020.cnblogs.com/blog/2194212/202106/2194212-20210609105800456-1118435454.png" alt="img"></p>
+<h3 id="_4、配置npm源" tabindex="-1"><a class="header-anchor" href="#_4、配置npm源"><span>4、配置npm源</span></a></h3>
+<div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre v-pre><code><span class="line"># 查询当前使用的镜像源</span>
+<span class="line">npm get registry</span>
+<span class="line"># 设置为淘宝镜像源</span>
+<span class="line">npm config set registry https://registry.npmmirror.com/</span>
+<span class="line"></span>
+<span class="line"># 还原为官方镜像源</span>
+<span class="line">npm config set registry https://registry.npmjs.com/</span>
+<span class="line"></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3 id="_5、安装cnpm-可选" tabindex="-1"><a class="header-anchor" href="#_5、安装cnpm-可选"><span>5、安装cnpm（可选）</span></a></h3>
+<p><strong>cnpm:因为npm安装插件是从国外服务器下载，受网络的影响比较大。cnpm是一个完整 npmjs.org 镜像。</strong></p>
+<div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre v-pre><code><span class="line">npm install -g cnpm --registry=https://registry.npmmirror.com/</span>
+<span class="line"></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p><img src="https://img2024.cnblogs.com/blog/2194212/202407/2194212-20240725174635377-1588170161.png" alt="img"></p>
+<p>查看 cnpm 安装是否成功： cnpm -v</p>
+<p><img src="https://img2024.cnblogs.com/blog/2194212/202407/2194212-20240725174652314-1920900673.png" alt="img"></p>
+<p>使用 cnpm get registry 查看配置的cnpm仓库</p>
+<p><img src="https://img2024.cnblogs.com/blog/2194212/202407/2194212-20240725174734804-770389129.png" alt="img"></p>
+<p>【注】cnpm的安装路径是 G:\Program Files\nodejs\node_global\node_modules\cnpm\bin</p>
+<p><img src="https://img2020.cnblogs.com/blog/2194212/202106/2194212-20210609110240797-299803503.png" alt="img"></p>
+<h3 id="_6、安装vue-cli" tabindex="-1"><a class="header-anchor" href="#_6、安装vue-cli"><span>6、安装vue-cli</span></a></h3>
+<p>Vue Cli 官网 https://cli.vuejs.org/zh/guide/installation.html</p>
+<div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre v-pre><code><span class="line">npm install -g @vue/cli</span>
+<span class="line"></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><h3 id="_7、创建并运行vue项目" tabindex="-1"><a class="header-anchor" href="#_7、创建并运行vue项目"><span>7、创建并运行vue项目</span></a></h3>
+<ul>
+<li>在要创建工程的目录下输入 ：vue create helloworld</li>
+<li>按照提示进入工程目录：cd helloworld</li>
+<li>按照提示运行项目：cnpm run serve</li>
+</ul>
+<p><img src="https://img2020.cnblogs.com/blog/2194212/202106/2194212-20210609110000622-865671859.png" alt="img"></p>
+<p><img src="https://img2020.cnblogs.com/blog/2194212/202106/2194212-20210609110040233-924604470.png" alt="img"></p>
+</div></template>
+
+

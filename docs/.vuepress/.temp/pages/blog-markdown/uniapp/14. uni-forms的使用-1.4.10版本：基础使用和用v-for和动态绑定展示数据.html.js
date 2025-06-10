@@ -1,0 +1,16 @@
+import comp from "E:/SunshineEbook/jingzhe-blog/docs/.vuepress/.temp/pages/blog-markdown/uniapp/14. uni-forms的使用-1.4.10版本：基础使用和用v-for和动态绑定展示数据.html.vue"
+const data = JSON.parse("{\"path\":\"/blog-markdown/uniapp/14.%20uni-forms%E7%9A%84%E4%BD%BF%E7%94%A8-1.4.10%E7%89%88%E6%9C%AC%EF%BC%9A%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8%E5%92%8C%E7%94%A8v-for%E5%92%8C%E5%8A%A8%E6%80%81%E7%BB%91%E5%AE%9A%E5%B1%95%E7%A4%BA%E6%95%B0%E6%8D%AE.html\",\"title\":\"uni-forms的使用-1.4.10版本：基础使用和用v-for和动态绑定展示数据\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"【注意版本】\",\"slug\":\"【注意版本】\",\"link\":\"#【注意版本】\",\"children\":[{\"level\":3,\"title\":\"导入组件后：\",\"slug\":\"导入组件后\",\"link\":\"#导入组件后\",\"children\":[]},{\"level\":3,\"title\":\"一个简单的使用例子如下：\",\"slug\":\"一个简单的使用例子如下\",\"link\":\"#一个简单的使用例子如下\",\"children\":[]}]},{\"level\":2,\"title\":\"在 uni-forms-item 中使用动态绑定数据时：\",\"slug\":\"在-uni-forms-item-中使用动态绑定数据时\",\"link\":\"#在-uni-forms-item-中使用动态绑定数据时\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"blog-markdown/uniapp/14. uni-forms的使用-1.4.10版本：基础使用和用v-for和动态绑定展示数据.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
