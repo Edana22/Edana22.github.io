@@ -1,5 +1,5 @@
 import comp from "E:/SunshineEbook/jingzhe-blog/docs/.vuepress/.temp/pages/article-vue/basic-use/1. vue简单语法梳理.html.vue"
-const data = JSON.parse("{\"path\":\"/article-vue/basic-use/1.%20vue%E7%AE%80%E5%8D%95%E8%AF%AD%E6%B3%95%E6%A2%B3%E7%90%86.html\",\"title\":\"vue简单语法梳理\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"article-vue/basic-use/1. vue简单语法梳理.md\"}")
+const data = JSON.parse("{\"path\":\"/article-vue/basic-use/1.%20vue%E7%AE%80%E5%8D%95%E8%AF%AD%E6%B3%95%E6%A2%B3%E7%90%86.html\",\"title\":\"vue简单语法梳理\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1749527809000,\"contributors\":[{\"name\":\"twoflowers\",\"username\":\"\",\"email\":\"1292548615@qq.com\",\"commits\":1}],\"changelog\":[{\"hash\":\"f3b962e68f6ffcb84ea2e07a3893611af691f7e8\",\"time\":1749527809000,\"email\":\"1292548615@qq.com\",\"author\":\"twoflowers\",\"message\":\"初步完成navbar和sidebar的设置\"}]},\"filePathRelative\":\"article-vue/basic-use/1. vue简单语法梳理.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

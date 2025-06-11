@@ -9,6 +9,8 @@ import * as clientConfig7 from 'E:/SunshineEbook/jingzhe-blog/docs/.vuepress/.te
 import * as clientConfig8 from 'E:/SunshineEbook/jingzhe-blog/docs/.vuepress/.temp/markdown-tab/config.js'
 import * as clientConfig9 from 'E:/SunshineEbook/jingzhe-blog/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
 import * as clientConfig10 from 'E:/SunshineEbook/jingzhe-blog/node_modules/@vuepress/theme-default/lib/client/config.js'
+import * as clientConfig11 from 'E:/SunshineEbook/jingzhe-blog/docs/.vuepress/.temp/sass-palette/load-hope.js'
+import * as clientConfig12 from 'E:/SunshineEbook/jingzhe-blog/docs/.vuepress/.temp/md-enhance/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -22,4 +24,6 @@ export const clientConfigs = [
   clientConfig8,
   clientConfig9,
   clientConfig10,
+  clientConfig11,
+  clientConfig12,
 ].map((m) => m.default).filter(Boolean)

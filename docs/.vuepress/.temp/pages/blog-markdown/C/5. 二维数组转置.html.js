@@ -1,5 +1,5 @@
 import comp from "E:/SunshineEbook/jingzhe-blog/docs/.vuepress/.temp/pages/blog-markdown/C/5. 二维数组转置.html.vue"
-const data = JSON.parse("{\"path\":\"/blog-markdown/C/5.%20%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E8%BD%AC%E7%BD%AE.html\",\"title\":\"二维数组转置\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"blog-markdown/C/5. 二维数组转置.md\"}")
+const data = JSON.parse("{\"path\":\"/blog-markdown/C/5.%20%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E8%BD%AC%E7%BD%AE.html\",\"title\":\"二维数组转置\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1749527809000,\"contributors\":[{\"name\":\"twoflowers\",\"username\":\"\",\"email\":\"1292548615@qq.com\",\"commits\":1}],\"changelog\":[{\"hash\":\"f3b962e68f6ffcb84ea2e07a3893611af691f7e8\",\"time\":1749527809000,\"email\":\"1292548615@qq.com\",\"author\":\"twoflowers\",\"message\":\"初步完成navbar和sidebar的设置\"}]},\"filePathRelative\":\"blog-markdown/C/5. 二维数组转置.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

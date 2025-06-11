@@ -1,21 +1,26 @@
 import { defaultTheme } from "@vuepress/theme-default";
 import { defineUserConfig } from "vuepress";
 import { viteBundler } from "@vuepress/bundler-vite";
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 
 export default defineUserConfig({
   port: 8088,
   lang: "zh-CN",
 
   title: "惊蛰",
-  description: "个人博客，记录学习和生活",
+  description: "记录工作、学习和生活",
   // head 渲染为网页title左侧的小图标
-  head: [["link", { rel: "icon", href: "/images/favicon.png" }]],
+  head: [["link", { rel: "icon", href: "/images/jingzhe-128.png" }]],
 
   theme: defaultTheme({
     navbar: [
       {
         text: "前端",
         link: "/article-web/前言.md", //放第一个文件
+      },
+      {
+        text: "开发调试记录",
+        link: "/article-bug/前言.md", //放第一个文件
       },
       {
         text: "Vue",
@@ -134,6 +139,27 @@ export default defineUserConfig({
           ],
         },
       ],
+      "/article-bug/": [
+        {
+          text: "前言",
+          link: "前言.md",
+        },
+        {
+          text: "c",
+          prefix: "/article-bug/c",
+          collapsible: true,
+          children: [
+            {
+              text: "根据先序-中序遍历序列画二叉树",
+              link: "testLocalPic.md",
+            },
+            {
+              text: "BOM操作",
+              link: "2. js BOM操作.md",
+            },
+          ],
+        },
+      ],
       "/article-vue/": [
         {
           text: "vue入门",
@@ -238,4 +264,10 @@ export default defineUserConfig({
   }),
 
   bundler: viteBundler(),
+  plugins: [
+    mdEnhancePlugin({
+      // 启用 mermaid
+      mermaid: true,
+    }),
+  ],
 });
