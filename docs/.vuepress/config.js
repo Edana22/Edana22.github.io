@@ -13,6 +13,8 @@ export default defineUserConfig({
   head: [["link", { rel: "icon", href: "/images/jingzhe-128.png" }]],
 
   theme: defaultTheme({
+    logo: "/images/jingzhe-128.png",
+
     navbar: [
       {
         text: "前端",
@@ -48,32 +50,16 @@ export default defineUserConfig({
         text: "java",
         link: "/article-java/前言.md",
       },
-      {
-        text: "其它语言",
-        prefix: "/blog-markdown/",
-        children: [
-          {
-            text: "C",
-            link: "C/2. c语言指针学习笔记.md",
-          },
-          {
-            text: "matlab",
-            link: "git/1. git 简介与基础使用.md",
-          },
-          {
-            text: "git",
-            link: "git/1. git 简介与基础使用.md",
-          },
-          {
-            text: "quasar",
-            link: "C/2. c语言指针学习笔记.md",
-          },
-          {
-            text: "navicat",
-            link: "C/2. c语言指针学习笔记.md",
-          },
-        ],
-      },
+      // {
+      //   text: "其它语言",
+      //   prefix: "/blog-markdown/",
+      //   children: [
+      //     {
+      //       text: "C",
+      //       link: "C/2. c语言指针学习笔记.md",
+      //     },
+      //   ],
+      // },
       {
         text: "计算机基础",
         link: "notebook.md",
@@ -180,6 +166,17 @@ export default defineUserConfig({
             {
               text: "用指针交换两个变量",
               link: "用指针交换两个变量.md",
+            },
+          ],
+        },
+        {
+          text: "MATLAB ",
+          prefix: "/article-bug/matlab",
+          collapsible: true,
+          children: [
+            {
+              text: "二维数组转置代码",
+              link: "二维数组转置代码.md",
             },
           ],
         },
