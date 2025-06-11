@@ -15,28 +15,16 @@
 </li>
 <li>
 <p><strong>pre在 = 左边</strong> 出现时代表一个<strong>节点</strong>，<strong>pre在= 右边</strong>出现时代表节点<strong>pre的地址</strong>；</p>
-<ul>
-<li>
-<div class="language-c line-numbers-mode" data-highlighter="prismjs" data-ext="c"><pre v-pre><code><span class="line"></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"></div></div></li>
-</ul>
-<p>p = head; //节点p指向节点head的地址</p>
-<div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre v-pre><code><span class="line"></span>
+<div class="language-c line-numbers-mode" data-highlighter="prismjs" data-ext="c"><pre v-pre><code><span class="line">p <span class="token operator">=</span> head<span class="token punctuation">;</span> <span class="token comment">//节点p指向节点head的地址</span></span>
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div></li>
 <li>
 <p><strong>p-&gt;next 在= 左边</strong> 出现时代表节点p的<strong>指针域</strong>；<strong>p-&gt;next在 = 右边</strong>出现时代表节点 p 的下一个节点地址（即<strong>下一节点数据域的地址</strong>）；</p>
-<ul>
-<li>
-<div class="language-c line-numbers-mode" data-highlighter="prismjs" data-ext="c"><pre v-pre><code><span class="line"></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"></div></div></li>
-</ul>
-<p>p-&gt;next = pre-&gt;next; //p 的指针域指向原先 pre 节点的下一个节点地址</p>
-<div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre v-pre><code><span class="line"></span>
-<span class="line">- ```c</span>
-<span class="line">　　pre->next = p; //pre的指针域指向节点 p 的地址</span>
+<div class="language-c line-numbers-mode" data-highlighter="prismjs" data-ext="c"><pre v-pre><code><span class="line">p<span class="token operator">-></span>next <span class="token operator">=</span> pre<span class="token operator">-></span>next<span class="token punctuation">;</span> <span class="token comment">//p 的指针域指向原先 pre 节点的下一个节点地址</span></span>
 <span class="line"></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></li>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><div class="language-c line-numbers-mode" data-highlighter="prismjs" data-ext="c"><pre v-pre><code><span class="line">pre<span class="token operator">-></span>next <span class="token operator">=</span> p<span class="token punctuation">;</span> <span class="token comment">//pre的指针域指向节点 p 的地址</span></span>
+<span class="line"></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div></li>
 <li>
 <p>单链表中申请的节点 p 不能使用&quot;p++&quot;操作。p++本身不会出现语法问题，但是并<strong>不会</strong>&quot;从指向p变成指向p的下一个节点&quot; ， 而是**&quot;从指向p的数据域地址变成指向p的指针域地址&quot;** 。</p>
 </li>

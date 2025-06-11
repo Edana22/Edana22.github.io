@@ -145,17 +145,41 @@ export default defineUserConfig({
           link: "前言.md",
         },
         {
-          text: "c",
+          text: "C",
           prefix: "/article-bug/c",
           collapsible: true,
           children: [
             {
-              text: "根据先序-中序遍历序列画二叉树",
-              link: "testLocalPic.md",
+              text: "二维数组转置代码",
+              link: "二维数组转置代码.md",
             },
             {
-              text: "BOM操作",
-              link: "2. js BOM操作.md",
+              text: "printf 输出最前端字符不显示",
+              link: "printf 输出最前端字符不显示.md",
+            },
+            {
+              text: "实参与形参",
+              link: "实参与形参.md",
+            },
+            {
+              text: "C指针学习笔记",
+              link: "C指针学习笔记.md",
+            },
+            {
+              text: "链表中指针的一些用法要点",
+              link: "链表中指针的一些用法要点.md",
+            },
+            {
+              text: "带头结点单链表的常用操作",
+              link: "带头结点单链表的常用操作.md",
+            },
+            {
+              text: "根据遍历序列画二叉树",
+              link: "根据遍历序列画二叉树.md",
+            },
+            {
+              text: "用指针交换两个变量",
+              link: "用指针交换两个变量.md",
             },
           ],
         },
