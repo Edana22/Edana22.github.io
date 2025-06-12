@@ -121,6 +121,17 @@ export default defineUserConfig({
           link: "前言.md",
         },
         {
+          text: "计算机基础知识 ",
+          prefix: "/article-bug/cs_basic",
+          collapsible: true,
+          children: [
+            {
+              text: "机器数存储",
+              link: "原码_反码_补码_移码和浮点数对阶.md",
+            },
+          ],
+        },
+        {
           text: "C",
           prefix: "/article-bug/c",
           collapsible: true,

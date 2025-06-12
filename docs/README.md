@@ -21,7 +21,7 @@ footer: MIT Licensed | Copyright © 2018-present VuePress Community
 
 # 关于我
 
- 我是惊蛰，主前端，也用后端开发，同时有自媒体账号【惊蛰与春分】，分享常用软件的使用技巧。
+程序员，主前端，也用后端开发，同时有自媒体账号【惊蛰与春分】，分享常用软件的使用技巧。
 
 - 博客园：[sunshine233](https://www.cnblogs.com/sunshine233)
 - 哔哩哔哩账号：惊蛰与春分_
