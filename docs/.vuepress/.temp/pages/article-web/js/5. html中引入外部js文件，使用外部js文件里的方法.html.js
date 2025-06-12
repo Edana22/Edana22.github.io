@@ -1,16 +1,3 @@
 import comp from "E:/SunshineEbook/jingzhe-blog/docs/.vuepress/.temp/pages/article-web/js/5. html中引入外部js文件，使用外部js文件里的方法.html.vue"
 const data = JSON.parse("{\"path\":\"/article-web/js/5.%20html%E4%B8%AD%E5%BC%95%E5%85%A5%E5%A4%96%E9%83%A8js%E6%96%87%E4%BB%B6%EF%BC%8C%E4%BD%BF%E7%94%A8%E5%A4%96%E9%83%A8js%E6%96%87%E4%BB%B6%E9%87%8C%E7%9A%84%E6%96%B9%E6%B3%95.html\",\"title\":\"html中引入外部js文件，使用外部js文件里的方法\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1749527809000,\"contributors\":[{\"name\":\"twoflowers\",\"username\":\"twoflowers\",\"email\":\"1292548615@qq.com\",\"commits\":1,\"url\":\"https://github.com/twoflowers\"}],\"changelog\":[{\"hash\":\"f3b962e68f6ffcb84ea2e07a3893611af691f7e8\",\"time\":1749527809000,\"email\":\"1292548615@qq.com\",\"author\":\"twoflowers\",\"message\":\"初步完成navbar和sidebar的设置\"}]},\"filePathRelative\":\"article-web/js/5. html中引入外部js文件，使用外部js文件里的方法.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

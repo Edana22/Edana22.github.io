@@ -1,16 +1,3 @@
 import comp from "E:/SunshineEbook/jingzhe-blog/docs/.vuepress/.temp/pages/article-bug/前言.html.vue"
 const data = JSON.parse("{\"path\":\"/article-bug/%E5%89%8D%E8%A8%80.html\",\"title\":\"前言\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1749626622000,\"contributors\":[{\"name\":\"twoflowers\",\"username\":\"twoflowers\",\"email\":\"1292548615@qq.com\",\"commits\":1,\"url\":\"https://github.com/twoflowers\"}],\"changelog\":[{\"hash\":\"89ecd435c22733ad6b6cbfa3516f02d832feb6d4\",\"time\":1749626622000,\"email\":\"1292548615@qq.com\",\"author\":\"twoflowers\",\"message\":\"引入mermaid成功\"}]},\"filePathRelative\":\"article-bug/前言.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
