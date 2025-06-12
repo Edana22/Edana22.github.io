@@ -6,7 +6,8 @@
 <h2 id="博客园" tabindex="-1"><a class="header-anchor" href="#博客园"><span>博客园：</span></a></h2>
 <p>https://www.cnblogs.com/sunshine233</p>
 <h2 id="个人小程序" tabindex="-1"><a class="header-anchor" href="#个人小程序"><span>个人小程序：</span></a></h2>
-<p>【今天的空闲做什么】、【（待定）游泳打卡记录】</p>
+<p>【今天的空闲做什么】</p>
+<!-- 、【（待定）游泳打卡记录】 -->
 </div></template>
 
 

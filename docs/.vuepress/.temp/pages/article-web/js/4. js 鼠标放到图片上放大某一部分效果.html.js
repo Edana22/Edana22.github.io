@@ -1,3 +1,16 @@
 import comp from "E:/SunshineEbook/jingzhe-blog/docs/.vuepress/.temp/pages/article-web/js/4. js 鼠标放到图片上放大某一部分效果.html.vue"
-const data = JSON.parse("{\"path\":\"/article-web/js/4.%20js%20%E9%BC%A0%E6%A0%87%E6%94%BE%E5%88%B0%E5%9B%BE%E7%89%87%E4%B8%8A%E6%94%BE%E5%A4%A7%E6%9F%90%E4%B8%80%E9%83%A8%E5%88%86%E6%95%88%E6%9E%9C.html\",\"title\":\"js 鼠标放到图片上放大某一部分效果\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1749527809000,\"contributors\":[{\"name\":\"twoflowers\",\"username\":\"\",\"email\":\"1292548615@qq.com\",\"commits\":1}],\"changelog\":[{\"hash\":\"f3b962e68f6ffcb84ea2e07a3893611af691f7e8\",\"time\":1749527809000,\"email\":\"1292548615@qq.com\",\"author\":\"twoflowers\",\"message\":\"初步完成navbar和sidebar的设置\"}]},\"filePathRelative\":\"article-web/js/4. js 鼠标放到图片上放大某一部分效果.md\"}")
+const data = JSON.parse("{\"path\":\"/article-web/js/4.%20js%20%E9%BC%A0%E6%A0%87%E6%94%BE%E5%88%B0%E5%9B%BE%E7%89%87%E4%B8%8A%E6%94%BE%E5%A4%A7%E6%9F%90%E4%B8%80%E9%83%A8%E5%88%86%E6%95%88%E6%9E%9C.html\",\"title\":\"js 鼠标放到图片上放大某一部分效果\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1749527809000,\"contributors\":[{\"name\":\"twoflowers\",\"username\":\"twoflowers\",\"email\":\"1292548615@qq.com\",\"commits\":1,\"url\":\"https://github.com/twoflowers\"}],\"changelog\":[{\"hash\":\"f3b962e68f6ffcb84ea2e07a3893611af691f7e8\",\"time\":1749527809000,\"email\":\"1292548615@qq.com\",\"author\":\"twoflowers\",\"message\":\"初步完成navbar和sidebar的设置\"}]},\"filePathRelative\":\"article-web/js/4. js 鼠标放到图片上放大某一部分效果.md\"}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
