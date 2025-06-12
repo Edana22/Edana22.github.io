@@ -50,16 +50,6 @@ export default defineUserConfig({
         text: "java",
         link: "/article-java/前言.md",
       },
-      // {
-      //   text: "其它语言",
-      //   prefix: "/blog-markdown/",
-      //   children: [
-      //     {
-      //       text: "C",
-      //       link: "C/2. c语言指针学习笔记.md",
-      //     },
-      //   ],
-      // },
       {
         text: "计算机基础",
         link: "notebook.md",
@@ -175,8 +165,8 @@ export default defineUserConfig({
           collapsible: true,
           children: [
             {
-              text: "二维数组转置代码",
-              link: "二维数组转置代码.md",
+              text: "matlab入门使用",
+              link: "matlab入门使用.md",
             },
           ],
         },

@@ -86,19 +86,19 @@
 <span class="line"> var2 <span class="token operator">=</span> <span class="token number">2</span><span class="token punctuation">;</span></span>
 <span class="line"> var3 <span class="token operator">=</span> <span class="token number">3</span><span class="token punctuation">;</span></span>
 <span class="line"></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>if 语句输出结果：
-<img src="@source/article-bug/matlab/matlab_basic_1.png" alt="alt text"></p>
-<p>figure 语句输出结果：
-<img src="@source/article-bug/matlab/matlab_basic_2.png" alt="alt text">
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><strong>if 语句输出结果：</strong></p>
+<p><img src="@source/article-bug/matlab/matlab_basic_1.png" alt="alt text"></p>
+<p><strong>figure 语句输出结果：</strong></p>
+<p><img src="@source/article-bug/matlab/matlab_basic_2.png" alt="alt text">
 <img src="@source/article-bug/matlab/matlab_basic_3.png" alt="alt text"></p>
-<p>hold on、hold off 语句输出结果：
-<img src="@source/article-bug/matlab/matlab_basic_4.png" alt="alt text"></p>
-<p>极坐标 语句输出结果：
-<img src="@source/article-bug/matlab/matlab_basic_5.png" alt="alt text"></p>
-<p>while 语句输出结果：
-<img src="@source/article-bug/matlab/matlab_basic_6.png" alt="alt text"></p>
-<p>for 循环语句输出结果：
-<img src="@source/article-bug/matlab/matlab_basic_7.png" alt="alt text"></p>
+<p><strong>hold on、hold off 语句输出结果：</strong></p>
+<p><img src="@source/article-bug/matlab/matlab_basic_4.png" alt="alt text"></p>
+<p><strong>极坐标 语句输出结果：</strong></p>
+<p><img src="@source/article-bug/matlab/matlab_basic_5.png" alt="alt text"></p>
+<p><strong>while 语句输出结果：</strong></p>
+<p><img src="@source/article-bug/matlab/matlab_basic_6.png" alt="alt text"></p>
+<p><strong>for 循环语句输出结果：</strong></p>
+<p><img src="@source/article-bug/matlab/matlab_basic_7.png" alt="alt text"></p>
 <h2 id="基础demo" tabindex="-1"><a class="header-anchor" href="#基础demo"><span>基础demo</span></a></h2>
 <h3 id="注释" tabindex="-1"><a class="header-anchor" href="#注释"><span>注释</span></a></h3>
 <ul>
@@ -109,11 +109,13 @@
 <h3 id="command-window-命令" tabindex="-1"><a class="header-anchor" href="#command-window-命令"><span>Command Window 命令</span></a></h3>
 <ul>
 <li><code v-pre>clc </code>清空Command Window；</li>
-<li><code v-pre>clear </code> 清空 Workspace；
-<img src="@source/article-bug/matlab/matlab_4.png" alt="alt text"></li>
-<li><code v-pre>filename </code> 按回车运行 <code v-pre>filename.m</code>文件。
-<img src="@source/article-bug/matlab/matlab_3.png" alt="alt text"></li>
+<li><code v-pre>clear </code> 清空 Workspace；</li>
 </ul>
+<p><img src="@source/article-bug/matlab/matlab_4.png" alt="alt text"></p>
+<ul>
+<li><code v-pre>filename </code> 按回车运行 <code v-pre>filename.m</code>文件。</li>
+</ul>
+<p><img src="@source/article-bug/matlab/matlab_3.png" alt="alt text"></p>
 <h4 id="【demo1-m】" tabindex="-1"><a class="header-anchor" href="#【demo1-m】"><span>【demo1.m】</span></a></h4>
 <div class="language-matlab line-numbers-mode" data-highlighter="prismjs" data-ext="matlab"><pre v-pre><code><span class="line"><span class="token comment">% C 语言中，变量类型和变量在使用之前必须强制声明。这种语言叫强类型语言。</span></span>
 <span class="line"><span class="token comment">% MATLAB 是弱类型语言，直接赋值就可以创建变量，变量类型取决于创建时的类型。</span></span>
@@ -146,9 +148,7 @@
 <span class="line"><span class="token function">disp</span><span class="token punctuation">(</span>str<span class="token punctuation">)</span><span class="token punctuation">;</span></span>
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3 id="使用plot-画图" tabindex="-1"><a class="header-anchor" href="#使用plot-画图"><span>使用plot()画图</span></a></h3>
-<ul>
-<li>有多个plot()时，后面的图像会覆盖前面的图像。</li>
-</ul>
+<p>有多个plot()时，后面的图像会覆盖前面的图像。</p>
 <h4 id="【demo2-m】" tabindex="-1"><a class="header-anchor" href="#【demo2-m】"><span>【demo2.m】</span></a></h4>
 <div class="language-matlab line-numbers-mode" data-highlighter="prismjs" data-ext="matlab"><pre v-pre><code><span class="line"><span class="token comment">% plot() 的使用方法</span></span>
 <span class="line">x<span class="token operator">=</span><span class="token number">0</span><span class="token operator">:</span><span class="token number">1</span><span class="token operator">:</span><span class="token number">10</span><span class="token punctuation">;</span></span>
@@ -188,7 +188,7 @@
 <div class="language-matlab line-numbers-mode" data-highlighter="prismjs" data-ext="matlab"><pre v-pre><code><span class="line"><span class="token function">semilogx</span><span class="token punctuation">(</span>x1<span class="token punctuation">,</span>y1<span class="token punctuation">)</span> </span>
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p><img src="@source/article-bug/matlab/matlab_8.png" alt="alt text"></p>
-<h3 id="【两个应用例子】" tabindex="-1"><a class="header-anchor" href="#【两个应用例子】"><span>【两个应用例子】</span></a></h3>
+<h3 id="两个应用例子" tabindex="-1"><a class="header-anchor" href="#两个应用例子"><span>两个应用例子</span></a></h3>
 <h4 id="【demo3-m】" tabindex="-1"><a class="header-anchor" href="#【demo3-m】"><span>【demo3.m】</span></a></h4>
 <ul>
 <li>example1:读取一个华氏温度的输入，输出为开尔文温度</li>
@@ -213,193 +213,111 @@
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>输出结果：</p>
 <p><img src="@source/article-bug/matlab/matlab_9.png" alt="alt text">
 <img src="@source/article-bug/matlab/matlab_10.png" alt="alt text"></p>
-<h1 id="六、matlab常用语法-if、figure、hold-on、极坐标、while、for循环、全局变量" tabindex="-1"><a class="header-anchor" href="#六、matlab常用语法-if、figure、hold-on、极坐标、while、for循环、全局变量"><span>六、matlab常用语法（if、figure、hold on、极坐标、while、for循环、全局变量）</span></a></h1>
-<p>demo4.m</p>
-<div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre v-pre><code><span class="line">% *************************** if else *******************************</span>
-<span class="line">% if  else之间是第一个block； else  end之间是第二个block</span>
-<span class="line">% 或者if  end之间是一个block，和缩进无关，缩进只是为了方便阅读。</span>
-<span class="line">% a = 2;</span>
-<span class="line">% disp('I am if statement:')</span>
-<span class="line">% if a==1 </span>
-<span class="line">%     fprintf('a is 1 \n');</span>
-<span class="line">%     fprintf('I am a. \n');</span>
-<span class="line">% else</span>
-<span class="line">%     fprintf('a is not 1 \n');</span>
-<span class="line">%     fprintf('I am not a. \n');</span>
-<span class="line">% end</span>
-<span class="line"></span>
-<span class="line">% ***************************** figure *****************************</span>
-<span class="line">% x = 0:10;</span>
-<span class="line">% y = x.^2 + 5*x + 6;</span>
-<span class="line">% figure(1); % 创建多个图像</span>
-<span class="line">% plot(x,y);</span>
-<span class="line"></span>
-<span class="line">% x1 = 0:pi/100:2*pi;</span>
-<span class="line">% y1 = sin(2*x1);</span>
-<span class="line">% figure(2);% 创建多个图像</span>
-<span class="line">% plot(x1,y1);</span>
-<span class="line"></span>
-<span class="line">% **********************************************************</span>
-<span class="line">% hold on 所有的新的图象都会叠加在原来存在的图象。</span>
-<span class="line">% hold off 命令可恢复默认情况，用新的图象来替代原来的图象。</span>
-<span class="line">% x1 = 0:pi/100:2*pi;</span>
-<span class="line">% y1 = sin(x1);</span>
-<span class="line">% y2 = cos(x1);</span>
-<span class="line">% hold off;</span>
-<span class="line">% plot(x1,y1,'r');</span>
-<span class="line">% hold on;</span>
-<span class="line">% plot(x1,y2,'k--');</span>
-<span class="line">% hold off;</span>
-<span class="line">% ******************************* 极坐标 ***************************</span>
-<span class="line">% 极坐标</span>
-<span class="line">g = 0.5;</span>
-<span class="line">theta = 0:pi/20:2*pi;</span>
-<span class="line">gain = 2*g*(1+cos(theta));</span>
-<span class="line">polar (theta,gain,'r-');</span>
-<span class="line">% ****************************** while ****************************</span>
-<span class="line">% while   end 之间是block</span>
-<span class="line">b = 1;</span>
-<span class="line">while(b &lt;= 5)</span>
-<span class="line">    disp(b);</span>
-<span class="line">    b = b+1;</span>
-<span class="line">end</span>
-<span class="line">% **************************** for ******************************</span>
-<span class="line">% for   end 之间是block</span>
-<span class="line">%  for 循环算法比向量算法慢</span>
-<span class="line">for c = 1:2:10  % for c = [1,5,7,9]</span>
-<span class="line">   fprintf('c^2 is %d \n',c^2);</span>
-<span class="line">end</span>
-<span class="line">disp('************************向量化************************')</span>
-<span class="line">% 用向量算法代替循环的算法的过程称之为向量化(vectorization)</span>
-<span class="line">% 向量执行的速度快,缺点是需要很大的内存,但仍要比 for 循环好的多</span>
-<span class="line">cc = 1:2:10;</span>
-<span class="line">ccc = cc.^2;</span>
-<span class="line">fprintf('ccc is %d \n',ccc);</span>
-<span class="line">% **************************** 全局变量 ******************************</span>
-<span class="line">% 可以用global声明全局变量。</span>
-<span class="line">% 为了方便，应该在函数开头就声明全局变量。 </span>
-<span class="line">% 全局变量适用大规模数据的传输</span>
-<span class="line">global var1 var2 var3 ;</span>
-<span class="line"> var1 = 1;</span>
-<span class="line"> var2 = 2;</span>
-<span class="line"> var3 = 3;</span>
-<span class="line"></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><strong>if 语句输出结果：</strong></p>
-<p><img src="https://img2022.cnblogs.com/blog/2194212/202203/2194212-20220301172515340-266843444.png" alt="img"></p>
-<p><strong>figure 语句输出结果：</strong></p>
-<p><img src="https://img2022.cnblogs.com/blog/2194212/202203/2194212-20220301170921234-1688438553.png" alt="img"> <img src="https://img2022.cnblogs.com/blog/2194212/202203/2194212-20220301170932502-94642605.png" alt="img"></p>
-<p><strong>hold on、hold off 语句输出结果：</strong></p>
-<p><img src="https://img2022.cnblogs.com/blog/2194212/202203/2194212-20220301171029401-1577798694.png" alt="img"></p>
-<p><strong>极坐标 语句输出结果：</strong></p>
-<p><img src="https://img2022.cnblogs.com/blog/2194212/202203/2194212-20220301171102436-319757965.png" alt="img"></p>
-<p><strong>while 语句输出结果：</strong></p>
-<p><img src="https://img2022.cnblogs.com/blog/2194212/202203/2194212-20220301171248721-1912648795.png" alt="img"></p>
-<p><strong>for 循环语句输出结果：</strong></p>
-<p><img src="https://img2022.cnblogs.com/blog/2194212/202203/2194212-20220301171402135-1434360495.png" alt="img"></p>
-<h1 id="七、matlab-自定义函数" tabindex="-1"><a class="header-anchor" href="#七、matlab-自定义函数"><span>七、matlab 自定义函数</span></a></h1>
+<h2 id="matlab-自定义函数" tabindex="-1"><a class="header-anchor" href="#matlab-自定义函数"><span>matlab 自定义函数</span></a></h2>
+<h3 id="自定义函数-1" tabindex="-1"><a class="header-anchor" href="#自定义函数-1"><span>自定义函数 1</span></a></h3>
 <p>demo5_myFunction.m （自定义函数）</p>
-<div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre v-pre><code><span class="line">% 在这个文件里自定义函数，函数名必须和文件名一致</span>
-<span class="line">% 函数脚本不需要运行，只要保存即可</span>
-<span class="line">% function result = filename(params)  //这里的函数名字必须和文件名一致</span>
-<span class="line">% function block</span>
+<div class="language-matlab line-numbers-mode" data-highlighter="prismjs" data-ext="matlab"><pre v-pre><code><span class="line"><span class="token comment">% 在这个文件里自定义函数，函数名必须和文件名一致</span></span>
+<span class="line"><span class="token comment">% 函数脚本不需要运行，只要保存即可</span></span>
+<span class="line"><span class="token comment">% function result = filename(params)  //这里的函数名字必须和文件名一致</span></span>
+<span class="line"><span class="token comment">% function block</span></span>
 <span class="line"></span>
-<span class="line">function distance = demo5_myFunction (x1, y1, x2, y2)</span>
-<span class="line">%DIST2 Calculate the distance between two point</span>
-<span class="line">% Function DIST2 calculates the distance between</span>
-<span class="line">% two points (x1, y1) and (x2,y2) in a cartesian</span>
-<span class="line">% coordinate system.</span>
+<span class="line"><span class="token keyword">function</span> distance <span class="token operator">=</span> <span class="token function">demo5_myFunction</span> <span class="token punctuation">(</span>x1<span class="token punctuation">,</span> y1<span class="token punctuation">,</span> x2<span class="token punctuation">,</span> y2<span class="token punctuation">)</span></span>
+<span class="line"><span class="token comment">%DIST2 Calculate the distance between two point</span></span>
+<span class="line"><span class="token comment">% Function DIST2 calculates the distance between</span></span>
+<span class="line"><span class="token comment">% two points (x1, y1) and (x2,y2) in a cartesian</span></span>
+<span class="line"><span class="token comment">% coordinate system.</span></span>
 <span class="line">%</span>
-<span class="line">% Calling sequence:</span>
-<span class="line">% res = dist2(x1, y1, x2, y2)</span>
+<span class="line"><span class="token comment">% Calling sequence:</span></span>
+<span class="line"><span class="token comment">% res = dist2(x1, y1, x2, y2)</span></span>
 <span class="line">%</span>
-<span class="line">% Define variables:</span>
-<span class="line">% x1  --x-position of point 1</span>
-<span class="line">% y1  --y-position of point 1</span>
-<span class="line">% x2  --x-position of point 2</span>
-<span class="line">% y2  --y-position of point 2</span>
-<span class="line">% distance --Distance between points</span>
+<span class="line"><span class="token comment">% Define variables:</span></span>
+<span class="line"><span class="token comment">% x1  --x-position of point 1</span></span>
+<span class="line"><span class="token comment">% y1  --y-position of point 1</span></span>
+<span class="line"><span class="token comment">% x2  --x-position of point 2</span></span>
+<span class="line"><span class="token comment">% y2  --y-position of point 2</span></span>
+<span class="line"><span class="token comment">% distance --Distance between points</span></span>
 <span class="line">%</span>
-<span class="line">% Record of revisions:</span>
-<span class="line">%  Date Pragrammer  Description of change</span>
-<span class="line">%  ========  ========== ================</span>
-<span class="line">%  12/15/98 S.J.Chapman Original code</span>
+<span class="line"><span class="token comment">% Record of revisions:</span></span>
+<span class="line"><span class="token comment">%  Date Pragrammer  Description of change</span></span>
+<span class="line"><span class="token comment">%  ========  ========== ================</span></span>
+<span class="line"><span class="token comment">%  12/15/98 S.J.Chapman Original code</span></span>
 <span class="line">%</span>
-<span class="line">% Calculate distance.</span>
+<span class="line"><span class="token comment">% Calculate distance.</span></span>
 <span class="line"></span>
-<span class="line">% 函数体内容</span>
-<span class="line">distance = sqrt((x2-x1).^2 + (y2-y1).^2);</span>
+<span class="line"><span class="token comment">% 函数体内容</span></span>
+<span class="line">distance <span class="token operator">=</span> <span class="token function">sqrt</span><span class="token punctuation">(</span><span class="token punctuation">(</span>x2<span class="token operator">-</span>x1<span class="token punctuation">)</span><span class="token operator">.^</span><span class="token number">2</span> <span class="token operator">+</span> <span class="token punctuation">(</span>y2<span class="token operator">-</span>y1<span class="token punctuation">)</span><span class="token operator">.^</span><span class="token number">2</span><span class="token punctuation">)</span><span class="token punctuation">;</span></span>
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>demo5_myFunction_useFunction.m（调用自定义函数）</p>
-<div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre v-pre><code><span class="line">% 在这个文件调用自定义函数</span>
-<span class="line">%  Script file: test_dist2.m</span>
+<div class="language-matlab line-numbers-mode" data-highlighter="prismjs" data-ext="matlab"><pre v-pre><code><span class="line"><span class="token comment">% 在这个文件调用自定义函数</span></span>
+<span class="line"><span class="token comment">%  Script file: test_dist2.m</span></span>
 <span class="line">%</span>
-<span class="line">%  Purpose:</span>
-<span class="line">%  This program test2 function dist2.</span>
+<span class="line"><span class="token comment">%  Purpose:</span></span>
+<span class="line"><span class="token comment">%  This program test2 function dist2.</span></span>
 <span class="line">%</span>
-<span class="line">%  Record of revisions:</span>
-<span class="line">%  Date Pragrammer  Description of change</span>
-<span class="line">%  ========  ========== ================</span>
-<span class="line">%  12/15/98 S.J.Chapman Original code</span>
+<span class="line"><span class="token comment">%  Record of revisions:</span></span>
+<span class="line"><span class="token comment">%  Date Pragrammer  Description of change</span></span>
+<span class="line"><span class="token comment">%  ========  ========== ================</span></span>
+<span class="line"><span class="token comment">%  12/15/98 S.J.Chapman Original code</span></span>
 <span class="line">%</span>
-<span class="line">%  Define variables:</span>
-<span class="line">%  ax  --x-position of point a</span>
-<span class="line">%  ay  --y-position of point a</span>
-<span class="line">%  bx --x-position of point b</span>
-<span class="line">%  by --x-position of point b</span>
+<span class="line"><span class="token comment">%  Define variables:</span></span>
+<span class="line"><span class="token comment">%  ax  --x-position of point a</span></span>
+<span class="line"><span class="token comment">%  ay  --y-position of point a</span></span>
+<span class="line"><span class="token comment">%  bx --x-position of point b</span></span>
+<span class="line"><span class="token comment">%  by --x-position of point b</span></span>
 <span class="line">%</span>
-<span class="line">%  Get input data.</span>
-<span class="line">disp('Calculate the distance between two points:');</span>
-<span class="line">ax = input ('Enter x value of point a:');</span>
-<span class="line">ay = input ('Enter y value of point a:');</span>
-<span class="line">bx = input ('Enter x value of point b:');</span>
-<span class="line">by = input ('Enter y value of point b:');</span>
+<span class="line"><span class="token comment">%  Get input data.</span></span>
+<span class="line"><span class="token function">disp</span><span class="token punctuation">(</span><span class="token string">'Calculate the distance between two points:'</span><span class="token punctuation">)</span><span class="token punctuation">;</span></span>
+<span class="line">ax <span class="token operator">=</span> <span class="token function">input</span> <span class="token punctuation">(</span><span class="token string">'Enter x value of point a:'</span><span class="token punctuation">)</span><span class="token punctuation">;</span></span>
+<span class="line">ay <span class="token operator">=</span> <span class="token function">input</span> <span class="token punctuation">(</span><span class="token string">'Enter y value of point a:'</span><span class="token punctuation">)</span><span class="token punctuation">;</span></span>
+<span class="line">bx <span class="token operator">=</span> <span class="token function">input</span> <span class="token punctuation">(</span><span class="token string">'Enter x value of point b:'</span><span class="token punctuation">)</span><span class="token punctuation">;</span></span>
+<span class="line">by <span class="token operator">=</span> <span class="token function">input</span> <span class="token punctuation">(</span><span class="token string">'Enter y value of point b:'</span><span class="token punctuation">)</span><span class="token punctuation">;</span></span>
 <span class="line"></span>
-<span class="line">%  Evaluate function</span>
-<span class="line">% 调用自定义函数  result = 自定义函数文件名(params)</span>
-<span class="line">result = demo5_myFunction (ax, ay, bx, by); % 调用自定义只有这一句</span>
-<span class="line">%  Write out result.</span>
-<span class="line">fprintf('The distance between points a and b is %f \n', result);</span>
+<span class="line"><span class="token comment">%  Evaluate function</span></span>
+<span class="line"><span class="token comment">% 调用自定义函数  result = 自定义函数文件名(params)</span></span>
+<span class="line">result <span class="token operator">=</span> <span class="token function">demo5_myFunction</span> <span class="token punctuation">(</span>ax<span class="token punctuation">,</span> ay<span class="token punctuation">,</span> bx<span class="token punctuation">,</span> by<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">% 调用自定义只有这一句</span></span>
+<span class="line"><span class="token comment">%  Write out result.</span></span>
+<span class="line"><span class="token function">fprintf</span><span class="token punctuation">(</span><span class="token string">'The distance between points a and b is %f \n'</span><span class="token punctuation">,</span> result<span class="token punctuation">)</span><span class="token punctuation">;</span></span>
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>运行结果：</p>
-<p><img src="https://img2022.cnblogs.com/blog/2194212/202203/2194212-20220301171855417-1919832974.png" alt="img"></p>
-<p><strong>自定义函数2 ：</strong></p>
+<p><img src="@source/article-bug/matlab/matlab_11.png" alt="alt text"></p>
+<h3 id="自定义函数-2" tabindex="-1"><a class="header-anchor" href="#自定义函数-2"><span>自定义函数 2</span></a></h3>
 <p>demo5_calc2.m</p>
-<div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre v-pre><code><span class="line">% 自定义函数 example2</span>
-<span class="line">% 有多个输出，写在[]中；输出只有一个时[]可以省略</span>
-<span class="line">% 函数结尾的result可以写，但没必要（运行到最后一行函数自然停止）</span>
-<span class="line">% 自定义函数接受不固定个输入参数，请搜索 “选择性参数、inputParser”</span>
-<span class="line">function [y1,y2] = demo5_calc2(x1,x2)</span>
-<span class="line">y1 = x1^2;</span>
-<span class="line">y2 = x2^2;</span>
+<div class="language-matlab line-numbers-mode" data-highlighter="prismjs" data-ext="matlab"><pre v-pre><code><span class="line"><span class="token comment">% 自定义函数 example2</span></span>
+<span class="line"><span class="token comment">% 有多个输出，写在[]中；输出只有一个时[]可以省略</span></span>
+<span class="line"><span class="token comment">% 函数结尾的result可以写，但没必要（运行到最后一行函数自然停止）</span></span>
+<span class="line"><span class="token comment">% 自定义函数接受不固定个输入参数，请搜索 “选择性参数、inputParser”</span></span>
+<span class="line"><span class="token keyword">function</span> <span class="token punctuation">[</span>y1<span class="token punctuation">,</span>y2<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token function">demo5_calc2</span><span class="token punctuation">(</span>x1<span class="token punctuation">,</span>x2<span class="token punctuation">)</span></span>
+<span class="line">y1 <span class="token operator">=</span> x1<span class="token operator">^</span><span class="token number">2</span><span class="token punctuation">;</span></span>
+<span class="line">y2 <span class="token operator">=</span> x2<span class="token operator">^</span><span class="token number">2</span><span class="token punctuation">;</span></span>
 <span class="line"></span>
-<span class="line">disp(['max(x1,x2):',num2str(max(x1,x2))]);</span>
+<span class="line"><span class="token function">disp</span><span class="token punctuation">(</span><span class="token punctuation">[</span><span class="token string">'max(x1,x2):'</span><span class="token punctuation">,</span><span class="token function">num2str</span><span class="token punctuation">(</span><span class="token function">max</span><span class="token punctuation">(</span>x1<span class="token punctuation">,</span>x2<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span></span>
 <span class="line"></span>
-<span class="line">% ******************************************</span>
-<span class="line">% max()只能被同一文件中的其它函数调用，是子函数</span>
-<span class="line">% 私有函数有 private 声明的子函数，它们只能被父目录中的函数访问</span>
-<span class="line">% 子函数和私有函数主要用于限制 MATLAB 函数的访问</span>
-<span class="line">function a = max(m,n)</span>
+<span class="line"><span class="token comment">% ******************************************</span></span>
+<span class="line"><span class="token comment">% max()只能被同一文件中的其它函数调用，是子函数</span></span>
+<span class="line"><span class="token comment">% 私有函数有 private 声明的子函数，它们只能被父目录中的函数访问</span></span>
+<span class="line"><span class="token comment">% 子函数和私有函数主要用于限制 MATLAB 函数的访问</span></span>
+<span class="line"><span class="token keyword">function</span> a <span class="token operator">=</span> <span class="token function">max</span><span class="token punctuation">(</span>m<span class="token punctuation">,</span>n<span class="token punctuation">)</span></span>
 <span class="line"></span>
-<span class="line">if(m&lt;n)</span>
-<span class="line">    a = n;</span>
-<span class="line">else if(m > n)</span>
-<span class="line">     a = m;</span>
-<span class="line">    end;</span>
-<span class="line">end;</span>
+<span class="line"><span class="token keyword">if</span><span class="token punctuation">(</span>m<span class="token operator">&lt;</span>n<span class="token punctuation">)</span></span>
+<span class="line">    a <span class="token operator">=</span> n<span class="token punctuation">;</span></span>
+<span class="line"><span class="token keyword">else</span> <span class="token keyword">if</span><span class="token punctuation">(</span>m <span class="token operator">></span> n<span class="token punctuation">)</span></span>
+<span class="line">     a <span class="token operator">=</span> m<span class="token punctuation">;</span></span>
+<span class="line">    <span class="token keyword">end</span><span class="token punctuation">;</span></span>
+<span class="line"><span class="token keyword">end</span><span class="token punctuation">;</span></span>
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>demo5_calc2_useFunction.m</p>
-<div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre v-pre><code><span class="line">% 使用自定义函数 example2</span>
-<span class="line">x1 = input('input x1:');</span>
-<span class="line">x2 = input('input x2:');</span>
-<span class="line">% 调用自定义函数格式就是：</span>
-<span class="line">%   自定义函数文件中第一行代码去掉 function 剩下的部分</span>
-<span class="line">%       function [y1,y2] = demo5_calc2(x1,x2)</span>
-<span class="line">[y1,y2] = demo5_calc2(x1,x2);</span>
-<span class="line">disp(['y1 is ', num2str(y1)]);</span>
-<span class="line">disp(['y2 is ', num2str(y2)]);</span>
+<div class="language-matlab line-numbers-mode" data-highlighter="prismjs" data-ext="matlab"><pre v-pre><code><span class="line"><span class="token comment">% 使用自定义函数 example2</span></span>
+<span class="line">x1 <span class="token operator">=</span> <span class="token function">input</span><span class="token punctuation">(</span><span class="token string">'input x1:'</span><span class="token punctuation">)</span><span class="token punctuation">;</span></span>
+<span class="line">x2 <span class="token operator">=</span> <span class="token function">input</span><span class="token punctuation">(</span><span class="token string">'input x2:'</span><span class="token punctuation">)</span><span class="token punctuation">;</span></span>
+<span class="line"><span class="token comment">% 调用自定义函数格式就是：</span></span>
+<span class="line"><span class="token comment">%   自定义函数文件中第一行代码去掉 function 剩下的部分</span></span>
+<span class="line"><span class="token comment">%       function [y1,y2] = demo5_calc2(x1,x2)</span></span>
+<span class="line"><span class="token punctuation">[</span>y1<span class="token punctuation">,</span>y2<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token function">demo5_calc2</span><span class="token punctuation">(</span>x1<span class="token punctuation">,</span>x2<span class="token punctuation">)</span><span class="token punctuation">;</span></span>
+<span class="line"><span class="token function">disp</span><span class="token punctuation">(</span><span class="token punctuation">[</span><span class="token string">'y1 is '</span><span class="token punctuation">,</span> <span class="token function">num2str</span><span class="token punctuation">(</span>y1<span class="token punctuation">)</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span></span>
+<span class="line"><span class="token function">disp</span><span class="token punctuation">(</span><span class="token punctuation">[</span><span class="token string">'y2 is '</span><span class="token punctuation">,</span> <span class="token function">num2str</span><span class="token punctuation">(</span>y2<span class="token punctuation">)</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span></span>
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>运行结果：</p>
-<p><img src="https://img2022.cnblogs.com/blog/2194212/202203/2194212-20220301172053676-1188310577.png" alt="img"></p>
+<p><img src="@source/article-bug/matlab/matlab_12.png" alt="alt text"></p>
 </div></template>
 
 
