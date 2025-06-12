@@ -1,16 +1,3 @@
 import comp from "E:/SunshineEbook/jingzhe-blog/docs/.vuepress/.temp/pages/blog-markdown/uniapp/1. “微信小程序从分享卡片进入，第一次获取不到用户uid、第二次能获取到用户uid”解决方法.html.vue"
 const data = JSON.parse("{\"path\":\"/blog-markdown/uniapp/1.%20%E2%80%9C%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BB%8E%E5%88%86%E4%BA%AB%E5%8D%A1%E7%89%87%E8%BF%9B%E5%85%A5%EF%BC%8C%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%8E%B7%E5%8F%96%E4%B8%8D%E5%88%B0%E7%94%A8%E6%88%B7uid%E3%80%81%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%83%BD%E8%8E%B7%E5%8F%96%E5%88%B0%E7%94%A8%E6%88%B7uid%E2%80%9D%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.html\",\"title\":\"“微信小程序从分享卡片进入，第一次获取不到用户uid、第二次能获取到用户uid”解决方法\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1749527809000,\"contributors\":[{\"name\":\"twoflowers\",\"username\":\"\",\"email\":\"1292548615@qq.com\",\"commits\":1}],\"changelog\":[{\"hash\":\"f3b962e68f6ffcb84ea2e07a3893611af691f7e8\",\"time\":1749527809000,\"email\":\"1292548615@qq.com\",\"author\":\"twoflowers\",\"message\":\"初步完成navbar和sidebar的设置\"}]},\"filePathRelative\":\"blog-markdown/uniapp/1. “微信小程序从分享卡片进入，第一次获取不到用户uid、第二次能获取到用户uid”解决方法.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
